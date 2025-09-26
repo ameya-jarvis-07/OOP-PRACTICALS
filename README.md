@@ -63,6 +63,14 @@ This repo contains Java programs for essential programming concepts. Each 🗂�
 
 ---
 
+## 📂 Practical 8: User Defined Package
+Filename: Practical10_FileHandling.java
+
+🗃️ Creating  user defined package.
+📝 Imported Hello.java from the folder names MyPackage.
+
+---
+
 ## 🛑 Practical 9: User-Defined Exception
 **Filename:** `Practical9_Exception.java`
 
